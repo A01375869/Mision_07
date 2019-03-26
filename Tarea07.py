@@ -3,7 +3,6 @@
 
 
 def dividir(dividendo, divisor):
-
     veces = 0
     residuo = dividendo
     while residuo >= divisor:
